@@ -1,5 +1,5 @@
 /*
-Arduino_GB231_library
+Arduino_GB2312_library
 函数：
     getfont(<字符串>, <长度>, <回传（unsigned char xxx [32]）>);
 
@@ -7,7 +7,7 @@ Arduino_GB231_library
 
 
 
-#include <Arduino_GB232_library.h>
+#include <Arduino_GB2312_library.h>
 void setup() {
 
   Serial.begin(115200);
