@@ -7,7 +7,7 @@ Arduino_GB231_library
 
 
 
-#include <Arduino_GB231_library.h>
+#include <Arduino_GB232_library.h>
 void setup() {
 
   Serial.begin(115200);
