@@ -1,4 +1,4 @@
-# Arduino_GB231_library
+# Arduino_GB2312_library
 为UTF-8编码设计的字库
 
 
